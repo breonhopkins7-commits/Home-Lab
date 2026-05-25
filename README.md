@@ -27,7 +27,7 @@ Built a foundational cybersecurity home lab using VirtualBox by configuring cust
 - Implemented bridged and internal network adapters
 - Performed basic system validation and hardening
 
-👉 View project: [Home Lab Part 1](link-to-your-repo)
+👉 View project: [Home Lab Part 1](https://github.com/breonhopkins7-commits/Home-Lab/tree/main/Part1-Network-Setup)
 
 ---
 
